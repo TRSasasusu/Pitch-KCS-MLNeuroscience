@@ -15,9 +15,9 @@ twitter: @TRSasasusu
 </span>
 +++
 ## 意識
-* 哲学的ゾンビ
-* 主観とは
-* 統合情報理論 |
+- 哲学的ゾンビ
+- 主観とは
+- 統合情報理論 |
 ---
 ## さて，本題へ
 ---
@@ -41,7 +41,7 @@ twitter: @TRSasasusu
 (4) 脳. "[https://ja.wikipedia.org/wiki/脳](https://ja.wikipedia.org/wiki/%E8%84%B3)". (参照 2017-08-24)
 ---
 ## 測定方法
-* パッチクランプ法 |
-* Optogenetics |
-* fMRI |
-* EEG |
+- パッチクランプ法 |
+- Optogenetics |
+- fMRI |
+- EEG |
