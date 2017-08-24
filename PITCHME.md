@@ -4,7 +4,7 @@ twitter: @TRSasasusu
 ## 自己紹介
 ---
 ## 自己紹介
-![Spin Action Creator](https://kcs1959.jp/wp-content/uploads/2017/03/Screenshot_2017-02-06-16-46-40.png)
+<img src="https://kcs1959.jp/wp-content/uploads/2017/03/Screenshot_2017-02-06-16-46-40.png" />
 ![Dragon Dusk](https://www.youtube.com/watch?v=zxLMtd7V_m4&t=8s)
 * Django はいいぞ
 ---
