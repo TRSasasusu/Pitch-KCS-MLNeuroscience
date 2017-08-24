@@ -21,7 +21,7 @@ twitter: @TRSasasusu
 ---
 ## さて，本題へ
 ---
-# 神経科学と機械学習
+<h1 style="font-size: 250%;">神経科学と機械学習</h1>
 ---
 ## まずは神経科学をざっと
 ---
@@ -31,7 +31,7 @@ twitter: @TRSasasusu
 (2) 神経細胞. "[https://ja.wikipedia.org/wiki/神経細胞](https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%B5%8C%E7%B4%B0%E8%83%9E)". (参照 2017-08-24)
 ---
 ## 活動電位
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Action_potential.svg" style="width: 50%;" />(3)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Action_potential.svg" style="width: 30%;" />(3)
   
 (3) Action potential. "[https://en.wikipedia.org/wiki/Action_potential](https://en.wikipedia.org/wiki/Action_potential)". (参照 2017-08-24)
 ---
@@ -50,3 +50,18 @@ twitter: @TRSasasusu
 - Optogenetics |
 - fMRI |
 - EEG |
+---
+## そもそも神経科学にはどんな分野がある？
+---
+## 神経科学の分野（私の知っているもの）
+- 認知神経科学
+- 神経工学
+- 理論神経科学
+- 神経学
+- 分子神経科学
+---
+## 理論神経科学
+---
+## 理論神経科学
+- 計算論的神経科学
+- 数理脳科学
