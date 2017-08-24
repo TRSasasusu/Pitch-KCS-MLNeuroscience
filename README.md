@@ -1,3 +1,4 @@
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gitpitch/gitpitch/master)
 # Pitch-KCS-MLNeuroscience
 Slides in KCS exchange meeting in 08/29/2017  
 *[Click here!](https://gitpitch.com/TRSasasusu/Pitch-KCS-MLNeuroscience)*  

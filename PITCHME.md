@@ -1,4 +1,4 @@
-<h1 style="font-size: 90%;">神経科学と機械学習</h1>
+<h1 style="font-size: 200%;">神経科学と機械学習</h1>
 twitter: @TRSasasusu
 ---
 ## 自己紹介
