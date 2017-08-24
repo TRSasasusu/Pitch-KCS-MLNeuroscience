@@ -1,4 +1,4 @@
-<h1 style="font-size: 300%;">神経科学と機械学習</h1>
+<h1 style="font-size: 250%;">神経科学と機械学習</h1>
 twitter: @TRSasasusu
 ---
 ## 自己紹介
@@ -31,7 +31,7 @@ twitter: @TRSasasusu
 (2) 神経細胞. "[https://ja.wikipedia.org/wiki/神経細胞](https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%B5%8C%E7%B4%B0%E8%83%9E)". (参照 2017-08-24)
 ---
 ## 活動電位
-<img src="https://en.wikipedia.org/wiki/Action_potential#/media/File:Action_potential.svg" style="width: 50%;" />(3)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Action_potential.svg" style="width: 50%;" />(3)
   
 (3) Action potential. "[https://en.wikipedia.org/wiki/Action_potential](https://en.wikipedia.org/wiki/Action_potential)". (参照 2017-08-24)
 ---
