@@ -17,6 +17,7 @@ twitter: @TRSasasusu
 ## 意識
 * 哲学的ゾンビ
 * 主観とは
+* 統合情報理論
 ---
 ## さて，本題へ
 ---
@@ -28,3 +29,15 @@ twitter: @TRSasasusu
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Complete_neuron_cell_diagram_en.svg" style="width: 50%;" />(2)
   
 (2) 神経細胞. "[https://ja.wikipedia.org/wiki/神経細胞](https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%B5%8C%E7%B4%B0%E8%83%9E)". (参照 2017-08-24)
+---
+## シナプス
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Synapse_diag1.svg" style="width: 50%;" />(3)
+  
+(3) シナプス. "[https://ja.wikipedia.org/wiki/シナプス](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%8A%E3%83%97%E3%82%B9)". (参照 2017-08-24)
+---
+## 脳
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Brain_diagram_ja.svg" style="width: 50%;" />(4)
+  
+(4) 脳. "[https://ja.wikipedia.org/wiki/脳](https://ja.wikipedia.org/wiki/%E8%84%B3)". (参照 2017-08-24)
+---
+## 測定方法
