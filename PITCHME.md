@@ -82,7 +82,7 @@ twitter: @TRSasasusu
 (6) ニューラルネットワーク. "[https://ja.wikipedia.org/wiki/ニューラルネットワーク](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A9%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF)". (参照 2017-08-25)
 ---
 ## プルキンエ細胞
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Gray628.png" style="width: 30%;" />(7)
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Gray628.png" style="width: 25%;" />(7)
   
 (7) プルキンエ細胞. "[https://ja.wikipedia.org/wiki/プルキンエ細胞](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AB%E3%82%AD%E3%83%B3%E3%82%A8%E7%B4%B0%E8%83%9E)". (参照 2017-08-25)
 ---
