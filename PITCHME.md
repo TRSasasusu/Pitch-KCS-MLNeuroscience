@@ -5,7 +5,7 @@ twitter: @TRSasasusu
 ---
 ## 自己紹介
 <img src="https://kcs1959.jp/wp-content/uploads/2017/03/Screenshot_2017-02-06-16-46-40.png" style="width: 100px;" />
-![Video](https://www.youtube.com/watch?v=zxLMtd7V_m4&t=8s)
+![Dragon Dusk](https://www.youtube.com/embed/zxLMtd7V_m4)
 * Django はいいぞ
 ---
 ある男がハイキングに出かける。道中、この男は不運にも沼のそばで、突然 雷に打たれて死んでしまう。その時、もうひとつ別の雷が、すぐそばの沼へと落ちた。なんという偶然か、この落雷は沼の汚泥と化学反応を引き起こし、死んだ男と全く同一、同質形状の生成物を生み出してしまう。  
