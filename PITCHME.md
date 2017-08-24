@@ -23,7 +23,11 @@ twitter: @TRSasasusu
 ---
 <h1 style="font-size: 250%;">神経科学と機械学習</h1>
 ---
-## まずは神経科学をざっと
+## 目次
+- 神経科学の基本的なこと
+- 神経科学から見た機械学習
+---
+## まずは神経科学
 ---
 ## 神経細胞
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Complete_neuron_cell_diagram_en.svg" style="width: 50%;" />(2)
@@ -67,6 +71,35 @@ twitter: @TRSasasusu
 - 数理脳科学
 ---
 ## それでは機械学習へ
+### 神経科学から見た機械学習
 (マサカリがやばそう)
 ---
 ## ニューラルネットワーク
+---
+## ニューラルネットワーク
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Multi-Layer_Neural_Network-Vector.svg" style="width: 50%;" />(6)
+  
+(6) ニューラルネットワーク. "[https://ja.wikipedia.org/wiki/ニューラルネットワーク](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A9%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF)". (参照 2017-08-25)
+---
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Gray628.png" style="width: 50%;" />(7)
+  
+(7) プルキンエ細胞. "[https://ja.wikipedia.org/wiki/プルキンエ細胞](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AB%E3%82%AD%E3%83%B3%E3%82%A8%E7%B4%B0%E8%83%9E)". (参照 2017-08-25)
+---
+## ニューラルネットワークの重み
+- 正負の値がある → 興奮性にも抑制性にもできる |
+- 学習により変化する → ヘブ則 |
+- 誤差逆伝播 → ない？！？！ |
+---
+## 時間依存シナプス可塑性(STDP)
+時間を考慮に入れたヘブ則．  タイミングのおかしいニューロンに対してシナプスの重みを減らすもの．
+---
+## 強化学習
+(おそらくもう時間がないだろう)
+---
+## 強化学習
+ある環境において行動した時に，報酬があったら良くて，罰があったら悪いので改善するという感じのアルゴリズム  
+(はしょり過ぎてごめんなさい)
+---
+## 脳における強化学習
+報酬はドーパミンが担っている．  
+ある行動をしたときに期待以上だったら多くドーパミンが出る．逆ならば少なくなる．予想通りだったら通常通り．
