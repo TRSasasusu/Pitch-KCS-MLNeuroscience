@@ -8,7 +8,7 @@ twitter: @TRSasasusu
 <iframe width="400" height="225" src="https://www.youtube.com/embed/zxLMtd7V_m4?ecver=1" frameborder="0" allowfullscreen align="right"></iframe>
 <br clear="both" />
 * Django はいいぞ
-* 神経工学
+* 神経工学 |
 ---
 <span style="font-size: 40%;">
 ある男がハイキングに出かける。道中、この男は不運にも沼のそばで、突然 雷に打たれて死んでしまう。その時、もうひとつ別の雷が、すぐそばの沼へと落ちた。なんという偶然か、この落雷は沼の汚泥と化学反応を引き起こし、死んだ男と全く同一、同質形状の生成物を生み出してしまう。<br />この落雷によって生まれた新しい存在のことを、スワンプマン（沼男）と言う。スワンプマンは原子レベルで、死ぬ直前の男と全く同一の構造を呈しており、見かけも全く同一である。もちろん脳の状態（落雷によって死んだ男の生前の脳の状態）も完全なるコピーであることから、記憶も知識も全く同一であるように見える。沼を後にしたスワンプマンは、死ぬ直前の男の姿でスタスタと街に帰っていく。そして死んだ男がかつて住んでいた部屋のドアを開け、死んだ男の家族に電話をし、死んだ男が読んでいた本の続きを読みふけりながら、眠りにつく。そして翌朝、死んだ男が通っていた職場へと出勤していく。(1)<br />(1) スワンプマン. "[https://ja.wikipedia.org/wiki/スワンプマン](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AF%E3%83%B3%E3%83%97%E3%83%9E%E3%83%B3)". (参照 2017-08-24)
@@ -17,7 +17,7 @@ twitter: @TRSasasusu
 ## 意識
 * 哲学的ゾンビ
 * 主観とは
-* 統合情報理論
+* 統合情報理論 |
 ---
 ## さて，本題へ
 ---
@@ -31,7 +31,7 @@ twitter: @TRSasasusu
 (2) 神経細胞. "[https://ja.wikipedia.org/wiki/神経細胞](https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%B5%8C%E7%B4%B0%E8%83%9E)". (参照 2017-08-24)
 ---
 ## シナプス
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Synapse_diag1.svg" style="width: 50%;" />(3)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Synapse_diag1.svg" style="width: 30%;" />(3)
   
 (3) シナプス. "[https://ja.wikipedia.org/wiki/シナプス](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%8A%E3%83%97%E3%82%B9)". (参照 2017-08-24)
 ---
@@ -41,3 +41,7 @@ twitter: @TRSasasusu
 (4) 脳. "[https://ja.wikipedia.org/wiki/脳](https://ja.wikipedia.org/wiki/%E8%84%B3)". (参照 2017-08-24)
 ---
 ## 測定方法
+* パッチクランプ法 |
+* Optogenetics |
+* fMRI |
+* EEG |
