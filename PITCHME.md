@@ -4,8 +4,8 @@ twitter: @TRSasasusu
 ## 自己紹介
 ---
 ## 自己紹介
-<img src="https://kcs1959.jp/wp-content/uploads/2017/03/Screenshot_2017-02-06-16-46-40.png" style="width: 300px;" align="left" />
-<iframe width="300" height="168" src="https://www.youtube.com/embed/zxLMtd7V_m4?ecver=1" frameborder="0" allowfullscreen align="right"></iframe>
+<img src="https://kcs1959.jp/wp-content/uploads/2017/03/Screenshot_2017-02-06-16-46-40.png" style="width: 400px;" align="left" />
+<iframe width="400" height="225" src="https://www.youtube.com/embed/zxLMtd7V_m4?ecver=1" frameborder="0" allowfullscreen align="right"></iframe>
 <br clear="both" />
 * Django はいいぞ
 ---
